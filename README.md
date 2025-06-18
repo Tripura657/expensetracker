@@ -34,6 +34,7 @@ This **Personal Expense Tracker** is a simple, interactive command-line applicat
   - 5. Exit
   - Choose an option:
 - If you choose option 4, a bar chart will be displayed representing total expenses per category.
+  
 ##📁 File Structure
   📦 ExpenseTracker/
    ┣ 📄 expense_tracker.py
