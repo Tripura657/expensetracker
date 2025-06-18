@@ -38,5 +38,7 @@ This **Personal Expense Tracker** is a simple, interactive command-line applicat
 ##📁 File Structure
 
   📦 ExpenseTracker/
+  
    ┣ 📄 expense_tracker.py
+   
    ┗ 📄 expense_tracker.csv  ← (automatically created on first run)
